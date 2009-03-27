@@ -2,7 +2,6 @@
 #         FILE:  WebService::UPS::TrackRequest.pm
 #  DESCRIPTION:  OO Module to track UPS packages using the XML UPS API. 
 #       AUTHOR:  Kyle Brandt (mn), kyle@kbrandt.com , http://www.kbrandt.com
-#      CREATED:  03/09/2009 01:36:43 PM
 #===============================================================================
 
 our      $VERSION =  '0.1';

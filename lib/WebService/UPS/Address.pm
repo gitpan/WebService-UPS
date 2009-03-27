@@ -3,7 +3,6 @@
 #         FILE:  Address.pm
 #  DESCRIPTION:  Address Object for use with UPS
 #       AUTHOR:  Kyle Brandt (mn), kyle@kbrandt.com , http://www.kbrandt.com
-#      CREATED:  03/11/2009 12:15:56 PM
 #===============================================================================
 
 

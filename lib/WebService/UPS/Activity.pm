@@ -3,7 +3,6 @@
 #         FILE:  Activity.pm
 #  DESCRIPTION:  Activity Object for my OO UPS Tracking Module
 #       AUTHOR:  Kyle Brandt (mn), kyle@kbrandt.com , http://www.kbrandt.com
-#      CREATED:  03/12/2009 09:59:09 AM
 #===============================================================================
 
 use strict;
